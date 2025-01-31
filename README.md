@@ -1,3 +1,7 @@
+# Fork of [ImTani/godot-time-rewind-2d](https://github.com/ImTani/godot-time-rewind-2d)
+## Original description below:
+
+
 # TimeRewind2D Plugin
 
 This plugin adds powerful time manipulation mechanics to your Godot projects, inspired by games like *Braid*. With this plugin, you can easily integrate features like rewinding time for specific objects and altering the game's time scale in designated areas. The plugin was originally made as a submission for [Mechanically Challenged](https://itch.io/jam/mechanically-challenged-august-2024).
